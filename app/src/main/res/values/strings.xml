@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Node Manager</string>
+    <string name="splash_screen_text">Qulon CMS</string>
+    <string name="menu_button_text">Menu</string>
+    <string name="connect_button_text">Connect</string>
+    <string name="login_button_text">Log In</string>
+    <string name="offline_button_text">Manage offline</string>
+</resources>
